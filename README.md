@@ -20,7 +20,7 @@ Here are a few things I've picked up along my learning journey.
   
 <!-- ## 📚 Frameworks -->
 
- ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue&logoColor=white) ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-ed4131?style=for-the-badge&logo=laravel&logoColor=white)
+ ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue&logoColor=white) ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-ed4131?style=for-the-badge&logo=laravel&logoColor=white) ![Blockchain](https://img.shields.io/badge/blockchain-ef8e19?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <!-- ## 🛢 Databases -->
 
