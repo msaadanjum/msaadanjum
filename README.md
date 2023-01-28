@@ -43,7 +43,7 @@ Here are a few things I've picked up along my learning journey.
  
  
  #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{msaadanjum}/count.svg)
 
 <!--
 
