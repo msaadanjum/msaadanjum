@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Saad Anjum 👨‍💻
 
@@ -12,8 +12,6 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
   
