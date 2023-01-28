@@ -13,6 +13,21 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 
 Here are a few things I've picked up along my learning journey.
 
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+
+- 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
+- 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
+- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
+- 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
+- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
+- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
+- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
+- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
+</div>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
   
