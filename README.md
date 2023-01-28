@@ -44,6 +44,11 @@ Here are a few things I've picked up along my learning journey.
  
  
 <!--
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+
+
 **msaadanjum/msaadanjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
